@@ -1,2 +1,2 @@
 # Code 
-Full code for the preprocessing and classification of the dataset to be used for the applications of the final project
+Full code for the implementation and applications of the final project
